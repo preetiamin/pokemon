@@ -28,9 +28,13 @@ wrangle_data.py - data wrangling scripts including plotly charts
 
 ## Results<a name="results"></a>
 
+The webpage can be found on Heroku. Here is the link to the webpage:
+
 https://poke-dash.herokuapp.com/
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+The data used for this webpage was obtained from Kaggle
 
 https://www.kaggle.com/abcsds/pokemon
 
