@@ -21,10 +21,10 @@ A webpage was built using bootstrap and flask. Plotly library was used to add vi
 
 ## File Descriptions <a name="files"></a>
 
-Pokemon.csv - Data file used for the analysis (obtained from Kaggle)
-index.html - html file for the dashboard
-requirements.txt - requirements listing all libraries used on heroku
-wrangle_data.py - data wrangling scripts including plotly charts
+* Pokemon.csv - Data file used for the analysis (obtained from Kaggle)
+* index.html - html file for the dashboard
+* requirements.txt - requirements listing all libraries used on heroku
+* wrangle_data.py - data wrangling scripts including plotly charts
 
 ## Results<a name="results"></a>
 
